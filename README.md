@@ -1,2 +1,0 @@
-# edureka
-my name narendra
